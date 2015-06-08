@@ -1,10 +1,10 @@
 SVMPython
-	A Support Vector Machine is binary classification algorithm utilized as a benchmark in many research articles as a baseline for comparison. This code is an SVM. It supervised models with associated learning algorithms that analyse data and recognize patterns.
+	A Support Vector Machine is binary classification algorithm utilized as a benchmark in many research articles as a baseline for comparison. This code is an SVM. It models data in a supervised way with associated learning algorithms that analyse data and recognize patterns.
 I (with Lennard assistance) created a repo structure doc-src-res in my flash drive to save information during the research..
 I downloaded MNIST dataset, Nanolab presentation format.
-I went to codeacademy.com to learn more about python. this exercise is really helpful because it give me a understanding about python. i am still working on it because it challenging.
-I created overleaf to write my paper.
-I am still do not have a clear understanding of the support vector machine.
-I can put some correct code in the "Hello World Python Tutorial" but not all of them because it confusing me.
-read a document about Support vector machine for Regression: A succinct review of large scale and linear programming formulations. Lennard and I will go over it next week.  
+I went to codeacademy.com to learn more about python. this exercise is really helpful because it gave me an understanding about python. I am still working on it because it is challenging.
+I created an overleaf account to write my paper.
+I still do not have a clear understanding of the support vector machine.
+I can put some correct code in the "Hello World Python Tutorial" but not all of them because it is confusing to me.
+I read a document about Support vector machine for Regression: A succinct review of large scale and linear programming formulations. Lennard and I will go over it next week.  
 
