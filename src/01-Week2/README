@@ -1,2 +1,20 @@
 # SVMPython
 A Support Vector Machine is binary classification algorithm utilized as a benchmark in many research articles as a baseline for comparison. This code is an SVM.
+ 0
+REGRESSION:	a statistical measure that attempts to determine the strength of the relationship between one dependent variable 
+(usually denoted by Y) and a series of other changing variable (known as independent variable).
+LINEAR PROGRAMMING: mathematical technique used in computer modelling(simulation)to find the best possible solution in allocating limited resources (energy,machine,materials,money,personnel,etc.) to achieve maximum n profit or minimum cost.
+STATE-OF-ART: the latest and most sophisticated or advanced stage of a technology, art, or science.
+DATASETS: a collection of data records for computer processing.
+LARGE-SCALE: involving large numbers or a large area; extensive.
+PATTERN RECOGNITION: the automated identification of shapes or forms or patterns of speech.
+Pattern recognition aims to classify data (patterns) based on either a priori knowledge or on statistical information extracted from the patterns
+LOCAL MINIMA: It is the least value that locates within a set of points which may or may not be a global minimum and it is not the lowest value in the entire set. It can also be termed as "Relative Minimum"
+CONJUGATE GRADIENT ALGORITHM: In mathematics, the conjugate gradient method is an algorithm for the numerical solution of particular systems of linear equations, namely those whose matrix is symmetric and positive-definite.
+COMPUTATIONAL: In theoretical computer science, a computational problem is a mathematical object representing a collection of questions that computers might be able to solve.
+INTRACTABLE:  is an adjective describing high complexity, which makes it difficult to change, manipulate, or resolve an issue
+OPTIMAL HYPERPLANE: line that separate two groups of data to maximizes the margin and minimizes the misclassification
+OPEN-SOURCE: denoting software for which the original source code is made freely available and may be redistributed and modified.
+QP-PROBLEM: Quadratic the problem of optimizing (minimizing or maximizing) a quadratic function of several variables subject to linear constraints on these variables.
+NYSTRON METHODE: The Nyström method is an efficient technique used to speed up large-scale learning applications by generating low-rank approximations. Crucial to the performance of this technique is the assumption that a matrix can be well approximated by working exclusively with a subset of its columns.
+SPARSE: : present only in small amounts : less than necessary or normal; especially : thinly covering an area : not thick or full
