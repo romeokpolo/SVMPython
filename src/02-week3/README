@@ -1,0 +1,25 @@
+house = ('House', 'you are in the house sitting in the family\'s chair.')
+guessRoom = ('Guess Room', 'family\'s guess room.')
+wall = ('Wall', 'You can not move further in this direction.')
+
+transitions = {
+	house:(guessRoom, wall),
+    guessRoom: (house),
+    wall: (house),
+}
+
+location =  house 
+
+while True:
+    print location[1]
+    print 'You can go to these places:'
+        
+    for (n, t) in enumerate(transitions[location]):
+        print n + 1, t[0]
+            
+    choice = int(raw_input('choose one'))
+    location = transitions[location][choice]
+	
+	
+My mini project was to create a game where a player can move from room to another. First, i made some word such as house, guess room, and wall. The player will be able to move to these places.
+Next, i created a dictionary name transitions where the keys are house, guessroom and wall. to start the game, my location is house. i added a loop where the player can choose which room he wants. for example, if the player press enter, the compter will ask him choose one. my could not be able to finish the game because i met some error. 
